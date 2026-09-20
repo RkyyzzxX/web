@@ -1,0 +1,26 @@
+[
+  {
+    "username": "owner",
+    "password": "owner123",
+    "role": "owner",
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "username": "admin1",
+    "password": "admin123",
+    "role": "admin",
+    "createdAt": "2026-01-15T10:30:00Z"
+  },
+  {
+    "username": "reseller1",
+    "password": "res123",
+    "role": "reseller",
+    "createdAt": "2026-01-20T14:00:00Z"
+  },
+  {
+    "username": "member1",
+    "password": "mem123",
+    "role": "member",
+    "createdAt": "2026-02-01T08:00:00Z"
+  }
+]
